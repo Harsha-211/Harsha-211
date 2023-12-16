@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Harsha-211
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning HTML 
-- 💞️ I’m looking to collaborate with MNCs
+- 👀 I’m interested in programming
 - 📫 How to reach me
 harsha.21bce8036@vitapstudent.ac.in 
 
