@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsha-211
+- 👋 Hi, I’m @Harsha
 - 👀 I’m interested in programming
 - 📫 How to reach me
 harsha.21bce8036@vitapstudent.ac.in 
