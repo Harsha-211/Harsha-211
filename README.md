@@ -31,16 +31,6 @@
 - **IoT/Hardware**: Arduino, ESP32, DHT22, MQ2, MPU6050  
 - **Currently Learning**: Quantum Circuits (Qiskit), 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-2211&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2211&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: harshavardhanreddy2211@gmail.com  
@@ -49,4 +39,4 @@
 
 ---
 
-⭐ *“Dreaming isn't enough. I’m building the tools to reach stars — in AI, in biology, in circuits, and beyond.”*
+⭐ *“Dreaming isn't enough. I’m building the tools to reach stars — in AI, and beyond.”*
