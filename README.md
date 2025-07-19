@@ -1,9 +1,52 @@
-- 👋 Hi, I’m @Harsha
-- 👀 I’m interested in programming
-- 📫 How to reach me
-harsha.21bce8036@vitapstudent.ac.in 
+<h1 align="center">Hi 👋, I'm Harshavardhan Reddy</h1>
+<h3 align="center">An AI Researcher | Continual Learner | Embedded Systems Enthusiast</h3>
 
-<!---
-Harsha-211/Harsha-211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshavardhanreddy11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🧊 Developing a **Smart Fridge** system combining **IoT + AI** to combat food waste  
+- 🧪 Published a research paper on **Nutrition Recommender using Fine-tuned LLMs + RAG** (ICDSAAI 2025) 
+
+---
+
+### 🧠 Interests
+
+- 🧬 Artificial General Intelligence    
+- 🔁 Few-shot / Zero-shot Learning  
+- 🔬 Quantum Neural Networks  
+- ⚡ Embedded AI + Sensors + Real-time Inference
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages**: Python, C++, Arduino C  
+- **Frameworks**: PyTorch, TensorFlow, HuggingFace Transformers  
+- **Tools**: Wokwi, Git, Streamlit, FastAPI  
+- **IoT/Hardware**: Arduino, ESP32, DHT22, MQ2, MPU6050  
+- **Currently Learning**: Quantum Circuits (Qiskit), 
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-2211&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-2211&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: harshavardhanreddy2211@gmail.com  
+- 💬 LinkedIn: [@harshavardhanreddy](https://www.linkedin.com/in/harsha-vardhan-reddy-maram-reddy-ab9b6b245/)  
+- 🌐 Portfolio / Blog: Coming soon...
+
+---
+
+⭐ *“Dreaming isn't enough. I’m building the tools to reach stars — in AI, in biology, in circuits, and beyond.”*
