@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshavardhan Reddy</h1>
+<h1 align="center">Hi 👋, I'm Harsha Vardhan Reddy</h1>
 <h3 align="center">An AI Researcher | Continual Learner | Embedded Systems Enthusiast</h3>
 
 <p align="center">
