@@ -18,18 +18,16 @@
 
 - 🧬 Artificial General Intelligence    
 - 🔁 Few-shot / Zero-shot Learning  
-- 🔬 Quantum Neural Networks  
 - ⚡ Embedded AI + Sensors + Real-time Inference
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, C++, Arduino C  
-- **Frameworks**: PyTorch, TensorFlow, HuggingFace Transformers  
-- **Tools**: Wokwi, Git, Streamlit, FastAPI  
-- **IoT/Hardware**: Arduino, ESP32, DHT22, MQ2, MPU6050  
-- **Currently Learning**: Quantum Circuits (Qiskit), 
+- **Languages**: Python, C++, Arduino C, JavaScript
+- **Frameworks**: PyTorch, TensorFlow, HuggingFace Transformers, NodeJS
+- **Tools**: Wokwi, Git, Streamlit
+- **IoT/Hardware**: Arduino, ESP32, DHT22, MQ2, MPU6050 
 
 ### 📫 Connect with Me
 
